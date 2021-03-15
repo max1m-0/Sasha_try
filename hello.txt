@@ -1,2 +1,3 @@
 Hello friend
 Road to dream
+Some interesting string
