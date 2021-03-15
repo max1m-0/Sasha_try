@@ -1,4 +1,9 @@
 Hello friend
 Road to dream
+<<<<<<< HEAD
 Some interesting string
 Nice balls
+=======
+Some interesting POG
+ty i ia
+>>>>>>> d6ca4eeb186564b07a5f6eb4a3e38f7a89a21fef
